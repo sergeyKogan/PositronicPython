@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "positronicpython"
+version = "0.1.0"
+description = ""
+authors = ["Sergey Kogan <sergey1991@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+pydantic = "^2.7.1"
+openai = "^1.28.1"
+tenacity = "^8.3.0"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
