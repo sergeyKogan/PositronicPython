@@ -18,6 +18,8 @@ To augment the python language with a human-like resourcefulness and decision ma
 Available features:
 --------
 *   **Automatic population:** of python data classes by analysing the source code of the class and following the user instruction
+*   **HTML Export:** Converts generated data into styled HTML pages for easy sharing and presentation
+*   **Logging Support:** Built-in logging integration to trace generation steps and debug outputs
 
 
 Quick Start
